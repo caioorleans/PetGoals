@@ -7,12 +7,12 @@ import {
   SafeAreaView,
 } from 'react-native';
 
-import LoginPage from './views/LoginPage'
+import ProfilePage from './views/ProfilePage'
 
 export default () => {
   return (
    <SafeAreaView style={styles.container}>
-     <LoginPage/>
+     <ProfilePage/>
    </SafeAreaView>
   );
 };
