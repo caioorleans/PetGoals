@@ -9,4 +9,7 @@ export default StyleSheet.create({
         marginBottom: 15,
         paddingLeft: 10,
     },
+    input:{
+        color: 'black',
+    }
 });
